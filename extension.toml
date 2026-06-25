@@ -2,7 +2,7 @@ id = "slop"
 name = "SLOP"
 version = "0.0.1"
 schema_version = 1
-authors = ["John Cadam"]
+authors = ["James Adam"]
 description = "SLOP language support for Zed"
 repository = "file:///Users/jcadam/code/zed-slop"
 
