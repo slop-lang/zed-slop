@@ -1,0 +1,5 @@
+name = "SLOP"
+grammar = "slop"
+path_suffixes = ["slop"]
+line_comments = ["; "]
+tab_size = 2

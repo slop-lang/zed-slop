@@ -1,0 +1,12 @@
+id = "slop"
+name = "SLOP"
+version = "0.0.1"
+schema_version = 1
+authors = ["John Cadam"]
+description = "SLOP language support for Zed"
+repository = "file:///Users/jcadam/code/zed-slop"
+
+[grammars.slop]
+repository = "file:///Users/jcadam/code/slop"
+commit = "6ec3931e4e54410ba722614de61c3b71c08a0f77"
+path = "tree-sitter-slop"
