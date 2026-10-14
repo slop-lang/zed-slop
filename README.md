@@ -6,7 +6,7 @@ This extension uses the Tree-sitter grammar from the main SLOP repository:
 
 ```toml
 [grammars.slop]
-repository = "file:///Users/jcadam/code/slop"
+repository = "file:///Users/<me>/code/slop"
 commit = "a5df394ec77ef1b8beb4a934ef54de04647d0250"
 path = "tree-sitter-slop"
 ```
